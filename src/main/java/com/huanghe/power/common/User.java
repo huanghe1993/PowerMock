@@ -6,4 +6,5 @@ package com.huanghe.power.common;
  * @Description
  */
 public class User {
+
 }
